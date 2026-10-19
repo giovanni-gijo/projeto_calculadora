@@ -212,7 +212,7 @@ O arquivo `docs/index.html` permite consultar a classe Calculadora, seus método
 
 # 13. Repositório GitHub
 
-Link do repositório: **A adicionar após a publicação.**
+Link do repositório: https://github.com/giovanni-gijo/projeto_calculadora
 
 Branches utilizadas:
 
