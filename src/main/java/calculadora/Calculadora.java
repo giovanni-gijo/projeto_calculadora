@@ -8,7 +8,11 @@ package calculadora;
  * @version 2.0
  */
 public class Calculadora {
-
+/**
+ * Inicializa uma nova calculadora.
+ */
+public Calculadora() {
+}
     /**
      * Calcula o resultado de uma operação matemática.
      *
